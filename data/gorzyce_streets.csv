@@ -1,0 +1,150 @@
+powiat,miejscowosc,ulica,numer,ilosc_koszy,ilosc_posesji,latitude,longitude
+Wodzisławski,Wodzisław Śl.,1 maja,16,0,0,49.96601,18.5437
+Wodzisławski,Belsznica,Czyżowicka,10A,70,35,49.9797966,18.3732832839637
+Wodzisławski,Belsznica,Krótka,2,18,6,49.97318,18.3687533801313
+Wodzisławski,Belsznica,Leśna,4,14,7,49.98120225,18.3587689166768
+Wodzisławski,Belsznica,Polna,20,88,44,49.975993,18.3796275592629
+Wodzisławski,Belsznica,Poprzeczna,6,22,11,49.99626195,18.361014764557
+Wodzisławski,Belsznica,Raciborska,39,170,85,49.97841765,18.3616505284642
+Wodzisławski,Belsznica,Skotnica,3,14,7,49.9827655,18.3569983555555
+Wodzisławski,Belsznica,Stawowa,13,70,35,49.9741134,18.3496078207972
+Wodzisławski,Belsznica,Wałowa,15,92,46,49.97022025,18.3544251
+Wodzisławski,Belsznica,Wiejska,4,27,9,49.98079555,18.3564923768048
+Wodzisławski,Bluszczów,Dąbrowy,5,15,3,50.0038223,18.3488692
+Wodzisławski,Bluszczów,Dworcowa,7,54,27,49.9925389,18.3288000178973
+Wodzisławski,Bluszczów,Jana,13,44,22,49.9903928,18.3337397
+Wodzisławski,Bluszczów,Kamieńska,10,36,18,49.9884878,18.3259073964872
+Wodzisławski,Bluszczów,Krzywa,2,8,4,49.99182145,18.3319396008577
+Wodzisławski,Bluszczów,Młyńska,5,28,14,49.9875734,18.3291380302101
+Wodzisławski,Bluszczów,Nowa,2,14,7,49.9870892,18.3319215
+Wodzisławski,Bluszczów,Piaskowa,12,32,16,49.9917825,18.3329775
+Wodzisławski,Bluszczów,Podgórze,3,16,8,49.9960364,18.33252375
+Wodzisławski,Bluszczów,Powstańców,19,86,43,49.9928289,18.3325899306351
+Wodzisławski,Bluszczów,Raciborska,7,8,4,50.0019937,18.3403683
+Wodzisławski,Bluszczów,Sosnowa,2,2,1,50.0017705,18.3355993
+Wodzisławski,Bluszczów,Środkowa,10,48,24,49.99332825,18.3308180731871
+Wodzisławski,Bluszczów,Szkolna,2,12,6,49.99017735,18.328569458478
+Wodzisławski,Bluszczów,Wiejska,22,128,64,49.98888585,18.332085130654
+Wodzisławski,Czyżowice,Bełsznicka,34,172,86,49.9828804,18.3998997872703
+Wodzisławski,Czyżowice,Dworcowa,54,296,148,49.9838204,18.4089359
+Wodzisławski,Czyżowice,Gorzycka,26,285,95,49.9840622,18.4048736
+Wodzisławski,Czyżowice,Graniczna,11,8,4,49.9794942,18.4237703
+Wodzisławski,Czyżowice,Nowa,25,178,89,49.984264,18.4060554354829
+Wodzisławski,Czyżowice,Parkowa,19,20,10,49.9744957,18.4236756
+Wodzisławski,Czyżowice,Polna,30,204,102,49.9800801,18.4102385
+Wodzisławski,Czyżowice,Rogowska,17,126,63,49.9871978,18.3993045235809
+Wodzisławski,Czyżowice,Środkowa,29,118,59,49.9844687,18.4119248
+Wodzisławski,Czyżowice,Stawiska,1,6,2,49.9837224,18.4198858
+Wodzisławski,Czyżowice,Strażacka,19,126,63,49.9800964,18.4148469
+Wodzisławski,Czyżowice,Wiejska,34,160,80,49.9842373,18.4187706
+Wodzisławski,Czyżowice,Wodzisławska,54,250,125,49.9842897,18.4051351
+Wodzisławski,Gorzyce,7 Kwietnia,12,40,20,49.9723035,18.38521215
+Wodzisławski,Gorzyce,Akacjowa,14,22,11,49.9617804,18.3945071
+Wodzisławski,Gorzyce,B. Prusa,23,48,24,49.9645025,18.4043471
+Wodzisławski,Gorzyce,Bogumińska,11,66,33,49.9577743,18.3854806538462
+Wodzisławski,Gorzyce,Cicha,8,10,5,49.9594762,18.4027549
+Wodzisławski,Gorzyce,Sienkiewicza,1,6,2,49.9645331,18.4116295
+Wodzisławski,Gorzyce,Jana Pawła II,2,26,13,49.9598419,18.4080944
+Wodzisławski,Gorzyce,Jesionowa,5,12,6,49.9610511,18.3971152
+Wodzisławski,Gorzyce,Kasztanowa,7,20,10,49.9612923,18.3951032
+Wodzisławski,Gorzyce,Klonowa,7,10,5,49.9618783,18.3982099
+Wodzisławski,Gorzyce,Kościelna,12,48,24,49.9570502,18.4011472
+Wodzisławski,Gorzyce,Kozielska,9,42,21,49.9580972,18.3965588
+Wodzisławski,Gorzyce,M. Kopernika,13,32,16,49.958902,18.4060099
+Wodzisławski,Gorzyce,Ogrodowa,13,80,40,49.9564143,18.396619
+Wodzisławski,Gorzyce,Olchowa,6,8,4,49.9608417,18.3905628
+Wodzisławski,Gorzyce,Piaskowa,65,118,59,49.9676013,18.3964729
+Wodzisławski,Gorzyce,Polna,9,76,38,49.957527,18.3408008794048
+Wodzisławski,Gorzyce,Poprzeczna,2,4,2,49.9653817,18.3823707644293
+Wodzisławski,Gorzyce,Raciborska,49,162,81,49.959636,18.3933696
+Wodzisławski,Gorzyce,Rybnicka,66,142,71,49.9591811,18.3998877
+Wodzisławski,Gorzyce,Stawowa,7,48,24,49.9584099,18.3917305
+Wodzisławski,Gorzyce,Strażacka,2,10,5,49.9578443,18.4000017
+Wodzisławski,Gorzyce,Wiejska,22,122,61,49.956712,18.3936304
+Wodzisławski,Gorzyce,Wierzbowa,20,78,39,49.9626725,18.3947988
+Wodzisławski,Gorzyce,Wiśniowa,11,24,12,49.9642715,18.3889785238853
+Wodzisławski,Gorzyce,Zamkowa,7,30,15,49.9634653,18.3799024
+Wodzisławski,Gorzyczki,Kopalniana,32,216,108,49.9545402,18.4083801
+Wodzisławski,Gorzyczki,Krótka,5,12,6,49.9493055,18.4171321
+Wodzisławski,Gorzyczki,Kwiatowa,11,30,15,49.9581177,18.4138831
+Wodzisławski,Gorzyczki,Leśna,22,93,31,49.9589529,18.4196839
+Wodzisławski,Gorzyczki,Nowa,4,6,3,49.9479424,18.4054172
+Wodzisławski,Gorzyczki,Orzechowa,7,18,9,49.9553097,18.402701
+Wodzisławski,Gorzyczki,Polna,24,182,91,49.9560129,18.407831402673
+Wodzisławski,Gorzyczki,Raciborska,45,116,58,49.94968705,18.4040096664453
+Wodzisławski,Gorzyczki,Skowronkowa,2,4,2,49.9545394,18.4171637
+Wodzisławski,Gorzyczki,Sowia,3,6,2,49.9558885,18.4206917
+Wodzisławski,Gorzyczki,Spacerowa,16,14,7,49.9567245,18.4157609
+Wodzisławski,Gorzyczki,Strzelnicza,11,42,21,49.9500603,18.4003698
+Wodzisławski,Gorzyczki,Szpakowa,1,6,2,49.9560945,18.418788
+Wodzisławski,Gorzyczki,Słowikowa,2,2,1,49.954165,18.4194052
+Wodzisławski,Gorzyczki,Wiejska,57,423,141,49.94579135,18.4016879812245
+Wodzisławski,Gorzyczki,Zdrojowa,11,22,11,49.9575009,18.4168183
+Wodzisławski,Gorzyczki,Łączna,5,18,9,49.95008145,18.4026253462747
+Wodzisławski,Odra,Główna,30,130,65,49.9696106,18.3260378532904
+Wodzisławski,Odra,Krótka,2,10,5,49.9708001,18.3243541996883
+Wodzisławski,Odra,Nowa,5,14,7,49.97788985,18.3136684948864
+Wodzisławski,Odra,Polna,5,22,11,49.9748589,18.3215651348474
+Wodzisławski,Odra,Rogowska,9,51,17,49.9721466,18.3259158070715
+Wodzisławski,Olza,Bogumińska,36,156,78,49.9538632,18.3358752
+Wodzisławski,Olza,Dworcowa,54,232,116,49.9588702,18.3381021651807
+Wodzisławski,Olza,Grobla,2,6,3,49.95492,18.3541822
+Wodzisławski,Olza,Kolejowa,1,8,2,49.95883185,18.3319066033149
+Wodzisławski,Olza,Kościelna,13,86,43,49.9505659,18.3420666103606
+Wodzisławski,Olza,Nowa,4,16,8,49.9513664,18.3455348
+Wodzisławski,Olza,Polna,8,26,13,49.96095915,18.3420647490678
+Wodzisławski,Olza,Poprzeczna,5,14,7,49.96286645,18.3386495965637
+Wodzisławski,Olza,Stawowa,3,12,6,49.9497349,18.3443640084572
+Wodzisławski,Olza,Szkolna,12,54,27,49.9500635,18.3467802621549
+Wodzisławski,Olza,Słoneczna,11,50,25,49.95380625,18.3491600693243
+Wodzisławski,Olza,Wałowa,0,3,1,49.9456107,18.3504336
+Wodzisławski,Olza,Wiejska,24,90,45,49.94858435,18.3419030120932
+Wodzisławski,Olza,Wierzbowa,3,10,5,49.95205805,18.3495891829802
+Wodzisławski,Olza,Zwycięstwa,11,28,14,49.9482481,18.3444618
+Wodzisławski,Osiny,7 Kwietnia,7,36,18,49.9730304,18.3844782406364
+Wodzisławski,Osiny,Kolejowa,11,58,29,49.9728797,18.3824827691292
+Wodzisławski,Osiny,Osińska,17,6,3,49.9772376,18.3860092
+Wodzisławski,Osiny,Poprzeczna,12,50,25,49.96732785,18.3816612059431
+Wodzisławski,Osiny,Raciborska,72,96,48,49.9738538,18.3693441558766
+Wodzisławski,Osiny,Łąkowa,6,12,6,49.970088,18.372521
+Wodzisławski,Rogów,Czyżowicka,9,36,18,49.99082035,18.3535814376277
+Wodzisławski,Rogów,Dębowa,14,10,5,49.995402,18.3643807
+Wodzisławski,Rogów,Klonowa,10,10,5,49.993466,18.3653922
+Wodzisławski,Rogów,Krótka,1,4,2,49.99378255,18.3487331892941
+Wodzisławski,Rogów,Krzywa,4,54,27,49.99262215,18.3515165772111
+Wodzisławski,Rogów,Leśna,11,102,51,49.9897297,18.3604261393907
+Wodzisławski,Rogów,Lipowa,7,42,21,49.98470965,18.3564173111933
+Wodzisławski,Rogów,Palarni,3,20,10,49.98895905,18.3478860549148
+Wodzisławski,Rogów,Parkowa,4,28,14,49.98804875,18.349830906673
+Wodzisławski,Rogów,Polna,20,98,49,50.0005099,18.3478099736646
+Wodzisławski,Rogów,Poprzeczna,8,38,19,49.98004545,18.3545479704503
+Wodzisławski,Rogów,Powstańców,2,14,7,49.99162535,18.3527053953982
+Wodzisławski,Rogów,Raciborska,49,274,137,49.98894325,18.3519403023019
+Wodzisławski,Rogów,Rogowiec,35,196,98,49.9922261,18.34508465
+Wodzisławski,Rogów,Sportowa,8,12,6,49.9904137,18.3468796
+Wodzisławski,Rogów,Szkolna,0,3,1,49.9897639,18.3529832
+Wodzisławski,Rogów,Słoneczna,0,2,1,50.0025291,18.3685615
+Wodzisławski,Rogów,Wiejska,11,54,27,49.98827055,18.3544486392215
+Wodzisławski,Rogów,Wodzisławska,11,60,30,49.99208915,18.3567963159423
+Wodzisławski,Rogów,Wrzosowa,11,6,3,49.9923843,18.3676329
+Wodzisławski,Rogów,Wytrzęsów,19,120,60,49.9949106,18.3499296606327
+Wodzisławski,Rogów,Wyzwolenia,58,370,185,49.9945375,18.35677
+Wodzisławski,Turza Śl.,27 Marca,20,106,53,49.9728185,18.454862
+Wodzisławski,Turza Śl.,Bogumińska,40,228,114,49.9722418,18.4363844
+Wodzisławski,Turza Śl.,Dalków,18,100,50,49.9758319,18.4395402
+Wodzisławski,Turza Śl.,Graniczna,25,146,73,49.9618573,18.4622052
+Wodzisławski,Turza Śl.,Kolejowa,10,78,39,49.9668356,18.4321345364884
+Wodzisławski,Turza Śl.,Kosciuszki,35,202,101,49.9680785,18.4409706882972
+Wodzisławski,Turza Śl.,Ligonia,14,177,59,49.9664168,18.4557258626326
+Wodzisławski,Turza Śl.,Mszańska,18,184,92,49.9816811,18.4666661
+Wodzisławski,Turza Śl.,Piaski,6,18,6,49.9768072,18.4606956
+Wodzisławski,Turza Śl.,Polna,4,9,3,49.9749437,18.4626129
+Wodzisławski,Turza Śl.,Powstańców,50,208,104,49.9708166,18.4495873
+Wodzisławski,Turza Śl.,Rzeczna,6,42,14,49.9745302,18.43438
+Wodzisławski,Turza Śl.,Świerkowa,23,8,4,49.9766627,18.4676326
+Wodzisławski,Turza Śl.,Tysiąclecia,20,135,45,49.968616,18.4481363
+Wodzisławski,Turza Śl.,Korfantego,11,34,17,49.9744152,18.4369252
+Wodzisławski,Turza Śl.,Wodzisławska,20,148,74,49.9679266,18.459213
+Wodzisławski,Turza Śl.,Wspólna,6,30,15,49.9746188,18.4479947619402
+Wodzisławski,Turza Śl.,Zwycięstwa,23,112,56,49.9668203,18.4363491
+Wodzisławski,Uchylsko,Wiejska,34,194,97,49.9455941,18.37579265

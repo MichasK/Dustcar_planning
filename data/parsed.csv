@@ -1,0 +1,165 @@
+nr,gmina,rejon,miejscowosc,ulica,ilosc posesji,ilosc koszy,longitude,latitude
+0,Gorzyce,R1,Belsznica,Czyżowicka,874,1540,18.3857256,49.9823416
+1,Gorzyce,R1,Belsznica,Krótka,179,496,18.3688544,49.974283
+2,Gorzyce,R1,Belsznica,Leśna,176,278,18.3621431,49.9902814
+3,Gorzyce,R1,Belsznica,Polna,1199,1981,18.3733112,49.9747924
+4,Gorzyce,R1,Belsznica,Poprzeczna,231,359,18.3558302,49.9795955
+5,Gorzyce,R1,Belsznica,Raciborska,2088,3779,18.3681799,49.9747882
+6,Gorzyce,R1,Belsznica,Skotnica,227,408,18.357219,49.9816344
+7,Gorzyce,R1,Belsznica,Stawowa,863,1509,18.3433007,49.9713561
+8,Gorzyce,R1,Belsznica,Wałowa,988,1693,18.3596438,49.9773378
+9,Gorzyce,R1,Belsznica,Wiejska,257,500,18.3563864,49.9809989
+10,Gorzyce,R1,Bluszczów,Dąbrowy,26,117,18.3456627,50.0081438
+11,Gorzyce,R1,Bluszczów,Dworcowa,655,1144,18.3272773,49.9911233
+12,Gorzyce,R1,Bluszczów,Jana,631,871,18.3337397,49.9903928
+13,Gorzyce,R1,Bluszczów,Kamieńska,436,657,18.3245011,49.9915759
+14,Gorzyce,R1,Bluszczów,Krzywa,97,171,18.332013,49.9923475
+15,Gorzyce,R1,Bluszczów,Młyńska,297,497,18.3287126,49.9878026
+16,Gorzyce,R1,Bluszczów,Nowa,231,339,18.332581,49.988946
+17,Gorzyce,R1,Bluszczów,Piaskowa,473,760,18.3329775,49.9917825
+18,Gorzyce,R1,Bluszczów,Podgórze,185,294,18.3323075,49.9961948
+19,Gorzyce,R1,Bluszczów,Powstańców,1122,1901,18.3321802,49.993024
+20,Gorzyce,R1,Bluszczów,Raciborska,60,75,18.3460247,49.9936953
+21,Gorzyce,R1,Bluszczów,Sosnowa,30,37,18.3355993,50.0017705
+22,Gorzyce,R1,Bluszczów,Środkowa,500,812,18.3302519,49.9918999
+23,Gorzyce,R1,Bluszczów,Szkolna,165,261,18.3287878,49.9895353
+24,Gorzyce,R1,Bluszczów,Wiejska,1618,2807,18.332581,49.988946
+25,Gorzyce,R1,Gorzyce,Raciborska,1,4,18.3954466,49.959432
+26,Gorzyce,R1,Osiny,Generala Sikorskiego,1102,1739,18.3815089,49.9731811
+27,Gorzyce,R1,Osiny,Kolejowa,665,1127,18.3812932,49.9715526
+28,Gorzyce,R1,Osiny,Osińska,98,147,18.6734952,50.0111905
+29,Gorzyce,R1,Osiny,Poprzeczna,777,1267,18.3815951,49.9668232
+30,Gorzyce,R1,Osiny,Raciborska,1275,2200,18.3770778,49.9693869
+31,Gorzyce,R1,Osiny,Łąkowa,157,291,18.372521,49.970088
+32,Gorzyce,R1,Rogów,Raciborska,46,60,18.3521756,49.9888645
+33,Gorzyce,R2,Rogów,Czyżowicka,371,687,18.3529647,49.9908269
+34,Gorzyce,R2,Rogów,Klonowa,102,153,18.3653922,49.993466
+35,Gorzyce,R2,Rogów,Krzywa,526,801,18.3503634,49.9927215
+36,Gorzyce,R2,Rogów,Leśna,806,1290,18.3532571,49.9888679
+37,Gorzyce,R2,Rogów,Lipowa,553,855,18.3562582,49.9857724
+38,Gorzyce,R2,Rogów,Palarni,264,438,18.3479928,49.9890952
+39,Gorzyce,R2,Rogów,Parkowa,328,508,18.3503561,49.9853723
+40,Gorzyce,R2,Rogów,Polna,1086,1736,18.3459905,50.0005113
+41,Gorzyce,R2,Rogów,Poprzeczna,512,919,18.3558302,49.9795955
+42,Gorzyce,R2,Rogów,Powstańców,92,121,18.3525267,49.9915957
+43,Gorzyce,R2,Rogów,Raciborska,2769,5266,18.3521756,49.9888645
+44,Gorzyce,R2,Rogów,Rogowiec,2677,4837,18.3400506,49.988372
+45,Gorzyce,R2,Rogów,Sportowa,184,293,18.3468796,49.9904137
+46,Gorzyce,R2,Rogów,Szkolna,26,65,18.0770941,50.109427
+47,Gorzyce,R2,Rogów,Słoneczna,4,7,18.3685615,50.0025291
+48,Gorzyce,R2,Rogów,Wiejska,602,1049,18.3544304,49.9881574
+49,Gorzyce,R2,Rogów,Wodzisławska,688,1278,18.3651186,49.9934392
+50,Gorzyce,R2,Rogów,Wrzosowa,51,69,18.3676329,49.9923843
+51,Gorzyce,R2,Rogów,Wytrzęsów,1414,2586,18.3486111,49.9933333
+52,Gorzyce,R2,Rogów,Wyzwolenia,4095,7426,18.3582338,49.9969979
+53,Gorzyce,R3,Odra,Główna,1419,2485,18.3194225,49.9704846
+54,Gorzyce,R3,Odra,Krótka,123,236,18.324739,49.9707439
+55,Gorzyce,R3,Odra,Nowa,194,309,18.3341422,49.9708361
+56,Gorzyce,R3,Odra,Polna,226,327,18.3191051,49.9760419
+57,Gorzyce,R3,Odra,Rogowska,400,811,18.3263075,49.9720914
+58,Gorzyce,R3,Olza,Bogumińska,1741,3107,18.3605402,49.9559574
+59,Gorzyce,R3,Olza,Dworcowa,2459,4366,18.3354635,49.9696087
+60,Gorzyce,R3,Olza,Kolejowa,56,165,18.3349661,49.9592706
+61,Gorzyce,R3,Olza,Kościelna,955,1635,18.3426635,49.9507206
+62,Gorzyce,R3,Olza,Nowa,198,295,18.334605,49.9660196
+63,Gorzyce,R3,Olza,Polna,267,385,18.3402799,49.9628616
+64,Gorzyce,R3,Olza,Poprzeczna,205,333,18.3385876,49.9627128
+65,Gorzyce,R3,Olza,Stawowa,166,305,18.3448082,49.9498545
+66,Gorzyce,R3,Olza,Szkolna,660,1169,18.3457069,49.9516798
+67,Gorzyce,R3,Olza,Słoneczna,535,849,18.3478076,49.9535999
+68,Gorzyce,R3,Olza,Wałowa,29,67,18.3504336,49.9456107
+69,Gorzyce,R3,Olza,Wiejska,981,1611,18.3462962,49.9485463
+70,Gorzyce,R3,Olza,Wierzbowa,96,159,18.3479418,49.9517945
+71,Gorzyce,R3,Olza,Zwycięstwa,358,531,18.3444618,49.9482481
+72,Gorzyce,R3,Uchylsko,Wiejska,2220,3735,18.3680553,49.9460045
+73,Gorzyce,R4,Gorzyce,Akacjowa,289,462,18.3945071,49.9617804
+74,Gorzyce,R4,Gorzyce,B. Prusa,619,1095,18.4039167,49.9663397
+75,Gorzyce,R4,Gorzyce,Bogumińska,908,1459,18.3771979,49.9562562
+76,Gorzyce,R4,Gorzyce,Cicha,68,94,18.4027549,49.9594762
+77,Gorzyce,R4,Gorzyce,Henryka Sienkiewicza,66,130,18.4118306,49.9646975
+78,Gorzyce,R4,Gorzyce,Jana Pawła II,242,326,18.4080944,49.9598419
+79,Gorzyce,R4,Gorzyce,Jesionowa,155,281,18.3971152,49.9610511
+80,Gorzyce,R4,Gorzyce,Kasztanowa,273,384,18.3951787,49.9609992
+81,Gorzyce,R4,Gorzyce,Klonowa,134,218,18.3982099,49.9618783
+82,Gorzyce,R4,Gorzyce,Kościelna,618,1146,18.4008199,49.9571601
+83,Gorzyce,R4,Gorzyce,Kozielska,580,892,18.3948079,49.9581335
+84,Gorzyce,R4,Gorzyce,Mikolaja Kopernika,493,937,18.4060099,49.958902
+85,Gorzyce,R4,Gorzyce,Ogrodowa,1004,1776,18.3900255,49.9535817
+86,Gorzyce,R4,Gorzyce,Piaskowa,1278,1977,18.3974651,49.9688568
+87,Gorzyce,R4,Gorzyce,Raciborska,1587,2773,18.3954466,49.959432
+88,Gorzyce,R4,Gorzyce,Rybnicka,1637,2955,18.3998877,49.9591811
+89,Gorzyce,R4,Gorzyce,Stawowa,630,992,18.3934478,49.9591083
+90,Gorzyce,R4,Gorzyce,Strażacka,149,278,18.4000264,49.9579503
+91,Gorzyce,R4,Gorzyce,Wiejska,1517,2769,18.3988678,49.9578393
+92,Gorzyce,R4,Gorzyce,Wierzbowa,667,1099,18.3947988,49.9626725
+93,Gorzyce,R4,Gorzyce,Wiśniowa,335,586,18.3884636,49.9638879
+94,Gorzyce,R4,Gorzyce,Zamkowa,323,480,18.3799024,49.9634653
+95,Gorzyce,R5,Czyżowice,Bełsznicka,2491,4594,18.3957727,49.979617
+96,Gorzyce,R5,Czyżowice,Dworcowa,3674,6731,18.4227994,49.9782623
+97,Gorzyce,R5,Czyżowice,Gorzycka,2427,4670,18.4048736,49.9840622
+98,Gorzyce,R5,Czyżowice,Graniczna,110,137,18.4232976,49.9805456
+99,Gorzyce,R5,Czyżowice,Nowa,2214,3895,18.4175863,49.9929958
+100,Gorzyce,R5,Czyżowice,Parkowa,214,274,18.4236756,49.9744957
+101,Gorzyce,R5,Czyżowice,Polna,2614,4474,18.4102385,49.9800801
+102,Gorzyce,R5,Czyżowice,Rogowska,1566,2845,18.3965225,49.9887309
+103,Gorzyce,R5,Czyżowice,Środkowa,1771,3401,18.4101959,49.983587
+104,Gorzyce,R5,Czyżowice,Stawiska,56,136,18.4198858,49.9837224
+105,Gorzyce,R5,Czyżowice,Strażacka,1583,2969,18.4143133,49.9801667
+106,Gorzyce,R5,Czyżowice,Wiejska,2148,4114,18.4187706,49.9842373
+107,Gorzyce,R5,Czyżowice,Wodzisławska,3068,5800,18.4051351,49.9842897
+108,Gorzyce,R5,Gorzyce,Piaskowa,159,388,18.3974651,49.9688568
+109,Gorzyce,R6,Turza Śl.,Bogumińska,2513,4280,18.4519419,49.9811686
+110,Gorzyce,R6,Turza Śl.,Dalków,1280,2233,18.4395402,49.9758319
+111,Gorzyce,R6,Turza Śl.,Graniczna,1842,2987,18.4622052,49.9618573
+112,Gorzyce,R6,Turza Śl.,Kolejowa,1077,1800,18.4322076,49.9669706
+113,Gorzyce,R6,Turza Śl.,Kosciuszki,2615,4668,18.4579525,49.9589882
+114,Gorzyce,R6,Turza Śl.,Ligonia,1569,3055,18.4563744,49.9696686
+115,Gorzyce,R6,Turza Śl.,Mszańska,2356,4135,18.4543278,49.9805182
+116,Gorzyce,R6,Turza Śl.,Piaski,146,281,18.4606956,49.9768072
+117,Gorzyce,R6,Turza Śl.,Polna,105,233,18.4469728,49.9820379
+118,Gorzyce,R6,Turza Śl.,Powstańców,2377,4277,18.4473405,49.9692274
+119,Gorzyce,R6,Turza Śl.,Rzeczna,407,827,18.4365237,49.9746304
+120,Gorzyce,R6,Turza Śl.,Świerkowa,68,118,18.4668789,49.9773716
+121,Gorzyce,R6,Turza Śl.,Tysiąclecia,1270,2439,18.4520731,49.9686214
+122,Gorzyce,R6,Turza Śl.,W.Korfantego,446,804,18.4369252,49.9744152
+123,Gorzyce,R6,Turza Śl.,Wodzisławska,1800,2966,18.4582377,49.9620004
+124,Gorzyce,R6,Turza Śl.,Wspólna,359,661,18.4470941,49.974204
+125,Gorzyce,R6,Turza Śl.,Zwycięstwa,1382,2448,19.3798023,50.4595835
+126,Gorzyce,R7,Gorzyce,Polna,924,1481,18.4032541,49.9541053
+127,Gorzyce,R8,Bluszczów,Dworcowa,21,46,18.3272773,49.9911233
+128,Gorzyce,R8,Bluszczów,Kamieńska,31,46,18.3245011,49.9915759
+129,Gorzyce,R8,Bluszczów,Środkowa,70,137,18.3302519,49.9918999
+130,Gorzyce,R8,Czyżowice,Dworcowa,42,93,18.4227994,49.9782623
+131,Gorzyce,R8,Czyżowice,Nowa,63,162,18.4175863,49.9929958
+132,Gorzyce,R8,Czyżowice,Wiejska,31,72,18.4187706,49.9842373
+133,Gorzyce,R8,Czyżowice,Wodzisławska,63,101,18.4051351,49.9842897
+134,Gorzyce,R8,Gorzyce,Olchowa,91,100,18.3905628,49.9608417
+135,Gorzyce,R8,Gorzyce,Piaskowa,29,34,18.3974651,49.9688568
+136,Gorzyce,R8,Gorzyce,Poprzeczna,40,54,18.3815951,49.9668232
+137,Gorzyce,R8,Gorzyce,Raciborska,79,179,18.3954466,49.959432
+138,Gorzyce,R8,Gorzyce,Wiejska,33,93,18.3988678,49.9578393
+139,Gorzyce,R8,Gorzyce,Wierzbowa,200,350,18.3947988,49.9626725
+140,Gorzyce,R8,Olza,Grobla,56,89,18.3541822,49.95492
+141,Gorzyce,R8,Olza,Kościelna,96,209,18.3426635,49.9507206
+142,Gorzyce,R8,Rogów,Dębowa,80,140,18.3687354,49.9978008
+143,Gorzyce,R8,Rogów,Krótka,62,85,18.3476248,49.9932028
+144,Gorzyce,R8,Rogów,Leśna,225,497,18.3532571,49.9888679
+145,Gorzyce,R8,Rogów,Parkowa,55,62,18.3503561,49.9853723
+146,Gorzyce,R8,Rogów,Raciborska,334,605,18.3521756,49.9888645
+147,Gorzyce,R8,Rogów,Wiejska,72,136,18.3544304,49.9881574
+148,Gorzyce,R8,Rogów,Wrzosowa,25,34,18.3676329,49.9923843
+149,Gorzyce,R8,Rogów,Wytrzęsów,1,4,18.3486111,49.9933333
+150,Gorzyce,R8,Rogów,Wyzwolenia,450,852,18.3582338,49.9969979
+151,Gorzyce,R8,Turza Śl.,Bogumińska,488,871,18.4519419,49.9811686
+152,Gorzyce,R8,Turza Śl.,Kosciuszki,59,72,18.4579525,49.9589882
+153,Gorzyce,R8,Turza Śl.,Ligonia,53,79,18.4563744,49.9696686
+154,Gorzyce,R8,Turza Śl.,Powstańców,171,269,18.4473405,49.9692274
+155,Gorzyce,R8,Turza Śl.,Tysiąclecia,35,89,18.4520731,49.9686214
+156,Gorzyce,R8,Turza Śl.,Wodzisławska,95,130,18.4582377,49.9620004
+157,Gorzyce,WIE,Gorzyce,Bogumińska,16,303,18.3771979,49.9562562
+158,Gorzyce,WIE,Gorzyce,Zamkowa,26,99,18.3799024,49.9634653
+159,Gorzyce,WIE,Gorzyczki,Kopalniana,47,219,18.408332,49.9540266
+160,Gorzyce,WIE,Gorzyczki,Leśna,89,375,18.4260605,49.9573501
+161,Gorzyce,WIE,Gorzyczki,Wiejska,36,149,18.4035726,49.9467849
+162,Gorzyce,WIE,Olza,Dworcowa,71,252,18.3354635,49.9696087
+163,Gorzyce,WIE,Turza Śl.,Wodzisławska,17,72,18.4582377,49.9620004
